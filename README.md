@@ -12,3 +12,43 @@ This could help in clustering the restaurants into segments. Also the data has v
 
 Data could be used for sentiment analysis. Also the metadata of reviewers can be used for identifying the critics in the industry.
 
+
+METHODOLOGY
+
+1. Problem Statement : "Stated Above"
+
+2. Loading dataset
+
+3. Understanding Dataset
+
+4. Data Wrangling
+
+5. Exploratory Data Analysis
+
+6. Hypthesis Testing
+
+7. Data Preprocessing
+  a) Handling Null values
+  b) Handling outliers
+  c) Feature selection
+  d) Feature Manipulation
+  
+8. Text data Preprocessing ( Using NLP)
+
+9. Modelling 
+
+  a) CLUSTERING 
+    * KMeans clustering
+    * Agglomerative Hierarchichal clustering
+    * DBSCAN
+    
+  b) Sentiment Analysis
+    * Logistic Regression 
+    * Decision Tree
+    * Random forest
+    * XGBoost classifier
+    * K Nearest Neighbour
+
+10. Evaluation 
+
+11. Conclusion
